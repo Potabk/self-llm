@@ -1,1 +1,1 @@
-A pure, naive implementation of qwen3 moe in PyTorch
+A pure, naive implementation of llms in PyTorch
